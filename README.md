@@ -145,7 +145,7 @@ CodeAlpha\_FAQChatbot/
 
 1. Clone the repository.
 
-YOUR_GITHUB_REPOSITORY_URL
+(https://github.com/ARIPELLIAKHILA/CodeAlpha_FAQChatbot)
 
 2. Open the project folder.
 
